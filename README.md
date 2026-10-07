@@ -29,4 +29,4 @@ Open the notebook in Google Colab and run all cells (Runtime → Run all).
 
 ## Key takeaways
 - [Missing values were handled by ___ rather than dropping rows]
-- [one more insight]
+
